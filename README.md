@@ -16,6 +16,17 @@
 
 ## 🛠️ Technologies & Tools
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-blueviolet)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-success)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-AI-red)
+
 **Languages & Frameworks:**  
 `Python`, `FastAPI`, `Phidata`, `Node.js`, `React Native`, `Vue 3`, `SQLAlchemy`
 
@@ -35,38 +46,45 @@
 
 ## 🚀 Featured Projects
 
-### 🔸 **AthenaAI**  
+### 🔸 **AthenaAI**
 Multi-Agent AI System for generating articles based on web research, news feeds, and generative AI. Supports both **image & text generation**, and includes **plagiarism analysis**.  
 **Tech Stack:** FastAPI, PostgreSQL, Phidata, Terraform, AWS  
-[Learn More ➡️](#) *(Add your GitHub repo link)*
+[![View Repository](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/your-github/athena-ai)
 
 ---
 
-### 🔸 **BigApple**  
+### 🔸 **BigApple**
 AI-enhanced taxi management platform supporting **driver recruitment**, **fleet maintenance**, and **real-time analytics**.  
 **Tech Stack:** FastAPI, Vue 3, PostgreSQL, Terraform, AWS  
-[Learn More ➡️](#) *(Add your GitHub repo link)*
+[![View Repository](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/your-github/bigapple)
 
 ---
 
-### 🔸 **Strategy.ai**  
+### 🔸 **Strategy.ai**
 AI-powered strategic management tool for organizations, integrating **AI analytics** and **collaboration features**.  
 **Tech Stack:** Django, React, PostgreSQL, Terraform, AWS  
-[Learn More ➡️](#) *(Add your GitHub repo link)*
+[![View Repository](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/your-github/strategy-ai)
 
 ---
 
-### 🔸 **Naima**  
+### 🔸 **Naima**
 Mobile application for **pregnancy consultations and healthcare monitoring**, featuring AI-powered health insights and virtual consultations.  
 **Tech Stack:** React Native, TensorFlow, Python, AWS  
-[Learn More ➡️](#) *(Add your GitHub repo link)*
+[![View Repository](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/your-github/naima)
+
+---
+
+## 📈 GitHub Stats
+
+![Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dilip-d-r-59367832a/)
-- 📧 Email: mailbox@drdilip.in  
-- 💼 Portfolio or Personal Website (Optional)
+- 📧 Email: mailbox@drdilip.in
+- 💼 [Portfolio](https://your-portfolio.com)
 
 ---
 
